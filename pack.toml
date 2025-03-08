@@ -1,0 +1,13 @@
+name = "Testpack"
+author = "Loewetiger"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d6827251acdb3a5764815ec58ee178979f7f1e7706cc333ffd98902ee25193c1"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.128"

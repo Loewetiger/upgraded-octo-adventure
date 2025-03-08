@@ -1,0 +1,161 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "10033c86377964b7a859464f2ee5cc792766028a6b6e3051300097d3efa19b3d"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "407e593de87937b8131b322ec034b2f5671f4210d2123451d630560d7918824a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "4e5663993445c473613e2958fb2ed299b2b6e30bd1e345a6373407dfe2552499"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "0a4d0034c5a1379d5aa57c0a104aaa2adbb98f1e2b89d4ec0b7ef68df2e16a1a"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "bb37dbf07ce4afc403b5ac9206b980a2da85ea4021f70ef9af1a97692816eb9b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "78e6623084bd14f68ef1335ae8a419238c4119188b90fd9e71faf45c4f049942"
+metafile = true
+
+[[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "e5125f8f2709fd20f8182fade3d7f9e7129872c63f042c5489c6eba4733b6b49"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "337eaef4f0cb6806463510c64a2de777a8a6c396d9855a26231d6a111caa05a2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "32ae660626d91a73a70a83d6c5be17fbb0b42e4f7e9bee694c5ee674aef97cd8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "298501d10980ed74135b92bb0ce3aea2008094c682176cdcf9e6274c03690407"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "0fb9b58c17adaf54255401dad1f6f7ff4d1971c42d0f1658dea4ca2171932089"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "0bc794e02ae75360c22b0afdbfff348ea9fde94863e0068ef536d510603a8370"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "8f40098ed250715b6fc189084cbb1f8252501a0fd096a57760b211b0c3e75614"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "1dc16fe98446b86b94a8bfa08f07accf11a7b07fc39730b2e7b32560dcaf1c45"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "f527c21279cbfc2025d9cdf8267fe22cd43b42a2f994fc4ae0d76c069a844387"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "74323c2be5dc7edbd6a91bd3e98c61c6730581475a4e6b1d1a9afdaec34c6cef"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "92afa767f18359d58290b653825437e577f58ee7db4c75ee412899a853963199"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "cb1521ea17987d9d7e142277d985c9350636345e2f9d1056d9758280a50e7d44"
+metafile = true
+
+[[files]]
+file = "mods/towntalk.pw.toml"
+hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/rethinking-voxels.pw.toml"
+hash = "5f89f787fc8ecb57ac582549359b84569eedd7b9a8a74aaa25f41244ae239c75"
+metafile = true
