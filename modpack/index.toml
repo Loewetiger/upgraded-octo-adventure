@@ -26,8 +26,18 @@ hash = "4e5663993445c473613e2958fb2ed299b2b6e30bd1e345a6373407dfe2552499"
 metafile = true
 
 [[files]]
+file = "mods/clientsort.pw.toml"
+hash = "97c31097bdacdd1765f107431b033ab6ae7f328fb9a60aef04474340204b1050"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e94bd41a54a72723e283df0c6a870c7baef0fa38ee9099842470f9fd10fc7e70"
 metafile = true
 
 [[files]]
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "92afa767f18359d58290b653825437e577f58ee7db4c75ee412899a853963199"
+metafile = true
+
+[[files]]
+file = "mods/stack-refill.pw.toml"
+hash = "25078e453f9303f1c786159476ad727aff65e29861df0a9ba4b02f2b5b2fab7d"
 metafile = true
 
 [[files]]
