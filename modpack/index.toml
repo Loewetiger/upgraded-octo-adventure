@@ -26,6 +26,11 @@ hash = "4e5663993445c473613e2958fb2ed299b2b6e30bd1e345a6373407dfe2552499"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
+metafile = true
+
+[[files]]
 file = "mods/clientsort.pw.toml"
 hash = "97c31097bdacdd1765f107431b033ab6ae7f328fb9a60aef04474340204b1050"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "92afa767f18359d58290b653825437e577f58ee7db4c75ee412899a853963199"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
