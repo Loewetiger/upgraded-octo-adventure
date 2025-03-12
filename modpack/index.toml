@@ -16,6 +16,11 @@ hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
 metafile = true
 
 [[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "70c9b1717eeb973a2c60ef839bf29f5c04b6b666ba47bb8d94c648103ad05a4d"
+metafile = true
+
+[[files]]
 file = "mods/blockui.pw.toml"
 hash = "407e593de87937b8131b322ec034b2f5671f4210d2123451d630560d7918824a"
 metafile = true
