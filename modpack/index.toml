@@ -61,6 +61,11 @@ hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "ca604e92190d200cc4f744f480fd11c7cc451a47fab0ea8a606b6222b4a56562"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "d6f2fdcf0f4bc67dccd8e036f7c8117ffd76a008bd50e2a060cd23671ef9abb9"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "5c01c61b237056629eadc046f6ad43312fb86d55e012d4c60ed64bda9c939ddc"
 metafile = true
 
 [[files]]
