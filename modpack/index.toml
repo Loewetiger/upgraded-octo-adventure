@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "22cbffc716babfbb34155fcfd8cfc6ffb94efd67a67607e6d1ef9b02f7484fe2"
+hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e27bf546182fc60c59cd535f0bd54c4f1aefd6a99db6ce49b9ca22bfd14c2b63"
+hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "70916f1f314d25fd15e0852aabd5186e3634d761fe61c467c477bc4e14063265"
+hash = "fdc4efb13a7823ee80cbe652baec06e15c3c5337a9c44f22d7d4c7480c8c5d3b"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "736927a80f093b82feba9f8915d7c8ef94b9eddce910f56bd5d8fd0bdb299f1d"
+hash = "86316f2af0e01e081585a886f2a73a9e7948ff8a39d516698c2eb19785423c1f"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "cb1521ea17987d9d7e142277d985c9350636345e2f9d1056d9758280a50e7d44"
+hash = "68050929adeecda4ac08c8bc9428aba3e8f8058ff279edc6bab4ba46025fff64"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "930ab3c9e9a838c6f169159bf92b37f75f8525878605f367426a5730d4a097f6"
+hash = "b64cd44b70986cec4f68968cfb55b33a02232521d2fe8b4d44141ef18cdbb150"
 metafile = true
 
 [[files]]
