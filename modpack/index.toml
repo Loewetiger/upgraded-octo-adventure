@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "f77098be75305f93641931d1985f3aa67de551b1beae89b53555ad04417c0e46"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
 metafile = true
 
 [[files]]
@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "762954f0803994db8e8cee47632b0efab08f86ee4bc252d5c6ab29f97d2486f2"
+hash = "ccef89ae05a1e4ecee6680ee25bb31faf9409bdd52cb5b9309004283f30f2476"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "fdc4efb13a7823ee80cbe652baec06e15c3c5337a9c44f22d7d4c7480c8c5d3b"
+hash = "5be22210c5f8f8b3f15159aadbf8f264cfec52309a37479463bb08904d7fe157"
 metafile = true
 
 [[files]]
