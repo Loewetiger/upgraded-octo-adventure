@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ante.pw.toml"
+hash = "28a347f91bbad2721f385cbfa31c75ddcd35de3e5e226e79abc6b5dce25869cb"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "10033c86377964b7a859464f2ee5cc792766028a6b6e3051300097d3efa19b3d"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "83022f67e08b0212916f8a96a8d6d62791162304fdbb7851b27ccef45bf7b696"
 metafile = true
 
 [[files]]
