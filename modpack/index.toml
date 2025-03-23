@@ -121,6 +121,11 @@ hash = "c34ad41e351235b1ca8e026e9fba9b3ee01c42e4933b060f0c870aac3014403a"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "b15adc2700827cf51bc985f2546bf03cf0701aa15f05e56bcc21a3970e3cfa92"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e39fea44e8f1b91ef0825d7ddfe1b5da7173439c1b23a4291c46542d2c39330c"
 metafile = true
