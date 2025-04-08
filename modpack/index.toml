@@ -72,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "623d74dea2f4a5c1f8173520691ff06533ac4e4f1651ef1790a8741d8181793d"
+hash = "685ec152243e99df71bd8d7f0a6a5c1e0c080acae1527822763ac702ca378827"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "577333704c5eff69cb5c99a42ec4b0b62b75221beaf5365bf9da03c2029c1f6d"
+hash = "96fd114b925770640f00a5668a599ef9bffdff3d7f207f596e4215b720e8f588"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "33d5b8b012be718b0de788623b9c2e6329eaf1e923f24be0bfa8af74be000146"
+hash = "f7dca6801a9af87578a08bf7ee3dcd9b7040eeb03b63a134c327d1c6cdc53ef4"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "734da85a1770ed0489132d97ce86130c5dc1ae1800d5802d5ecb07f44e15468b"
+hash = "6d7ed1de895d198b2c4959b8f28f63cdcd68d24fda159be860db0c692dc54a3b"
 metafile = true
 
 [[files]]
@@ -227,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "347cac2ed12c9bc0561b6a59eeb4c121b10e5f3f71d54e9bf8d1343af57ef5b8"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "3cfef48b682d3f4863a8a3c212584779b03d1bb29fd45e4f78c5e1cb8d31588a"
+hash = "1a766fe81eb0dda436347c4d7a8bc344e342ef439ae9b4eb7f0aaf0c13286ddd"
 metafile = true
 
 [[files]]
@@ -267,5 +267,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "0917eab9344fee62002e5677b59bfffd76d31493d52fa79ac6dcaf2096120e52"
+hash = "7e0daf31959f4cc812885dd68a2bbbc6072994e24ab0d2cde2ebbc04a6026fe0"
 metafile = true
